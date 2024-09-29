@@ -1,0 +1,24 @@
+
+Topics:
+  
+  RWD ( Responsive Web Design )
+    Make a website look good in all the devices ( all sizes )
+
+    Media Query:
+      Chaining the CSS rules with values based on the sizes of screen ( width of the screen )
+
+    Mobile First Approach:
+      Keeping the Mobile CSS as default
+
+  Icons:
+    fontawesome - <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+  Naigations Using anchor tag using id as href
+
+  Select Two Different landing Page & discuss & develop on those
+
+  .gitignore - add files or folder to ignore them
+
+
+Landing Page Creation Practice

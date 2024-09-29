@@ -1,0 +1,43 @@
+.div-common {
+  height: 200px;
+  width: 200px;
+  background-color: aqua;
+}
+
+/* Media Queries */
+/* CSS for width greater than or equal to 800px */
+@media screen and (min-width: 800px) {
+  /* add in the css rules */
+  .div-common {
+    background-color: blue;
+    width: 800px;
+    height: 800px;
+  }
+}
+
+/* CSS for width less than or equal to 400px */
+@media screen and (max-width: 400px) {
+  /* add in the css rules */
+}
+
+/* 401 to 800 */
+@media screen and (min-width: 400px) and (max-width: 800px) {
+  .div-common {
+    background-color: blueviolet;
+    width: 400px;
+    height: 400px;
+  }
+}
+
+/* @media screen and (orientation: landscape) {
+  .div-common {
+    background-color: red;
+  }
+}
+
+@media screen and (orientation: portrait) {
+  .div-common {
+    background-color: green;
+  }
+}
+ */
