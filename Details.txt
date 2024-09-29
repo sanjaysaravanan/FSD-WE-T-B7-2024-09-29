@@ -18,7 +18,7 @@ Topics:
 
   Select Two Different landing Page & discuss & develop on those
 
-  .gitignore - add files or folder to ignore them
+  .gitignore - add files or folder to ignore them from remote, too keep those only in the local
 
 
 Landing Page Creation Practice
