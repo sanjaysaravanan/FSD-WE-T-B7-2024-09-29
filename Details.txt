@@ -22,3 +22,16 @@ Topics:
 
 
 Landing Page Creation Practice
+
+Task:
+  Create a simple Layout, the layout should have the following,
+
+    Header
+    Sidebar
+    Main Content
+    Footer
+  Please create a separate folder for each task on Your local system for Your reference.
+
+  Submit both,
+    1. Front-End Deployed( Netlify )
+    2. Front-End Source code URl(Github) 
